@@ -1,0 +1,40 @@
+:root {
+    --cor-de-fundo:#DEB887;
+    --cabecalho-principal: black;
+    --cor-da-fonte:white;
+    --cor-fundo-menu: #DEB887;
+
+}
+
+body {
+     background-color: var(--cor-de-fundo);
+}
+
+h1{
+    color: white;
+}
+
+.cabecalho-titulo {
+    font-size: 36px;
+    font-weight: 700;
+    padding: 12px;
+    text-align: center;
+}
+
+.cabecalho-menu {
+    background-color: var(--cor-fundo-menu);
+}
+
+.cabecalho-menu-item {
+    display: block;
+    padding: 10px;
+    font-size: 24px;
+    text-decoration: none;
+    color: black;
+    text-align: center;
+    border-top: 1px solid;
+}
+
+.cabecalho {
+    text-align: center;
+}
