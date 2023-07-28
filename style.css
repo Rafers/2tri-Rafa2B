@@ -2,7 +2,7 @@
     --cor-de-fundo:#DEB887;
     --cabecalho-principal: black;
     --cor-da-fonte:white;
-    --cor-fundo-menu: #DEB887;
+    --cor-fundo-menu: rgb(136, 206, 188);
 
 }
 
@@ -33,8 +33,4 @@ h1{
     color: black;
     text-align: center;
     border-top: 1px solid;
-}
-
-.cabecalho {
-    text-align: center;
 }
